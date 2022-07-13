@@ -18,7 +18,7 @@ MoxyCord being a fork of FlameCord, has all its features, and some of its own, s
 
 ## Why fork FlameCord?
 
-MoxyCord was forked out of a desire for greater protection to be afforded to a Bungeecord-based proxy, which Waterfall currently cannot offer.
+MoxyCord was forked out of a desire for greater performance to be afforded to a Bungeecord-based proxy, which Waterfall currently cannot offer.
 
 MoxyCord will track upstream FlameCord and merge changes as needed.
 
