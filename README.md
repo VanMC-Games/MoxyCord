@@ -37,4 +37,4 @@ Clone this repo, run `./moxycord b` from *bash*, get jar from `MoxyCord-Proxy/bo
 ## Join us
 
 * Feel free to open a PR! We accept contributions.
-* Join to our [Discord Server](https://discord.gg/gF36AT3).
+* Join to our [Discord Server](https://dsc.gg/vanmcgames).
