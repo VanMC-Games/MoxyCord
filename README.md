@@ -12,8 +12,8 @@ Looking for a server anticheat? Take a look at MoxyAC
 
 MoxyCord being a fork of FlameCord, has all its features, and some of its own, such as:
 
-* **Exploit Fixes**: FlameCord specializes in providing better server security by fixing major exploits, performance flaws and bugs that Bungeecord already has, and that have not yet been fixed in WaterfallMC.
-* **Bot Protection**: FlameCord brings swift bot protection for your Minecraft server to avoid extra CPU usage and crashes in your machines.
+* **Exploit Fixes**: MoxyCord specializes in providing better server security by fixing major exploits, performance flaws and bugs that Bungeecord already has, and that have not yet been fixed in WaterfallMC.
+* **Bot Protection**: MoxyCord brings swift bot protection for your Minecraft server to avoid extra CPU usage and crashes in your machines.
 * **Better Performance**: MoxyCord aims to improve FlameCord's performance and make your CPU lower.
 
 ## Why fork FlameCord?
