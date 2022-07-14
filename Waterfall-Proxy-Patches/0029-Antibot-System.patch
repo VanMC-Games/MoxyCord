@@ -26,7 +26,7 @@ index 00000000..dfee9bf8
 --- /dev/null
 +++ b/flamecord/src/main/java/dev/_2lstudios/antibot/AccountsCheck.java
 @@ -0,0 +1,36 @@
-+package dev._2lstudios.antibot;
++package dev._darkvibesstudios.antibot;
 +
 +import java.net.SocketAddress;
 +import java.util.Collection;
